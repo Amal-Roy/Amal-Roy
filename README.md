@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Amal Roy  
+### 💻 CS Student | Aspiring Fullstack Developer  
 
-<!--
-**Amal-Roy/Amal-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Web Development & Java**  
+💬 Ask me about **Java, GitHub, and Frontend Development**  
+📫 Reach me at **your-email@example.com**  
+⚡ Fun fact: I enjoy coding late at night 🌙  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amal-Roy&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-Roy&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with me
+[![LinkedIn](https://www.linkedin.com/in/amal-roy-08528b350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=nvjlsos)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Amal-Roy&color=blue)
+
