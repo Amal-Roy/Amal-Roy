@@ -2,8 +2,8 @@
 ### 💻 CS Student | Aspiring Fullstack Developer  
 
 🌱 I’m currently learning **Web Development & Java**  
-💬 Ask me about **Java, GitHub, and Frontend Development**  
-📫 Reach me at **your-email@example.com**  
+💬 Ask me about **Java , c-programming**  
+📫 Reach me at **amalroyyy1980@gmail.com**  
 ⚡ Fun fact: I enjoy coding late at night 🌙  
 
 ---
@@ -24,8 +24,10 @@
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/amal-roy-08528b350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Instagram](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=nvjlsos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-roy-08528b350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=nvjlsos)
+
 
 ---
 
