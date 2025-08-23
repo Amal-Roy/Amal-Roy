@@ -32,8 +32,34 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
+<p align="center">
+  <svg width="100%" height="6">
+    <defs>
+      <linearGradient id="rainbow">
+        <stop offset="0%" stop-color="#ff0000">
+          <animate attributeName="offset" values="0;1" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="20%" stop-color="#ff9900">
+          <animate attributeName="offset" values="0;1" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="40%" stop-color="#ffff00">
+          <animate attributeName="offset" values="0;1" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="60%" stop-color="#33cc33">
+          <animate attributeName="offset" values="0;1" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="80%" stop-color="#3399ff">
+          <animate attributeName="offset" values="0;1" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#9900cc">
+          <animate attributeName="offset" values="0;1" dur="4s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="6" fill="url(#rainbow)" />
+  </svg>
+</p>
 
-![Rainbow Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&backgroundColor=000000)
 
 
 
