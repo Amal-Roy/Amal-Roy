@@ -28,9 +28,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-roy-08528b350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=nvjlsos)
 
+![Rainbow](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=6&section=footer)
+
+![GitHub contribution grid snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
----
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Amal-Roy&color=blue)
+
+
+---![Visitor Count](https://komarev.com/ghpvc/?username=Amal-Roy&color=blue)
 
