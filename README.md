@@ -21,7 +21,10 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=amal-roy&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+</p>
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=amal-roy&theme=radical&hide_border=false" alt="GitHub Streak" height="200"/>
+
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-Roy&layout=compact&theme=radical)
@@ -34,33 +37,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=nvjlsos)
 
 
-<p align="center">
-  <svg width="100%" height="8">
-    <defs>
-      <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#ff0000">
-          <animate attributeName="offset" values="0;1" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="20%" stop-color="#ff9900">
-          <animate attributeName="offset" values="0;1" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="40%" stop-color="#ffff00">
-          <animate attributeName="offset" values="0;1" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="60%" stop-color="#33cc33">
-          <animate attributeName="offset" values="0;1" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="80%" stop-color="#3399ff">
-          <animate attributeName="offset" values="0;1" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#9900cc">
-          <animate attributeName="offset" values="0;1" dur="4s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="8" fill="url(#rainbow)" />
-  </svg>
-</p>
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
