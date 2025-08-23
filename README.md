@@ -19,9 +19,7 @@
 ## 📊 GitHub Stats
 ![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amal-Roy&show_icons=true&theme=radical)  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amal-roy&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
-</p>
+
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=amal-roy&theme=radical&hide_border=false" alt="GitHub Streak" height="200"/>
 
