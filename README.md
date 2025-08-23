@@ -29,13 +29,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=nvjlsos)
 
 
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
 <p align="center">
-  <svg width="100%" height="6">
+  <svg width="100%" height="8">
     <defs>
-      <linearGradient id="rainbow">
+      <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#ff0000">
           <animate attributeName="offset" values="0;1" dur="4s" repeatCount="indefinite" />
         </stop>
@@ -56,9 +53,11 @@
         </stop>
       </linearGradient>
     </defs>
-    <rect width="100%" height="6" fill="url(#rainbow)" />
+    <rect width="100%" height="8" fill="url(#rainbow)" />
   </svg>
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
 
