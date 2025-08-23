@@ -24,11 +24,6 @@
   <img src="https://streak-stats.demolab.com?user=amal-roy&theme=radical&hide_border=false" alt="GitHub Streak" height="200"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-roy&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-</p>
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-Roy&layout=compact&theme=radical)
 
 ---
