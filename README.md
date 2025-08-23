@@ -30,10 +30,10 @@
 
 
 
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-![GitHub contribution grid snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-![Rainbow](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=4)
+![Rainbow Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&backgroundColor=000000)
 
 
 
